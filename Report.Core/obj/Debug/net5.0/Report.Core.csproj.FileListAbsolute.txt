@@ -1,0 +1,11 @@
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\bin\Debug\net5.0\Report.Core.deps.json
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\bin\Debug\net5.0\Report.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\bin\Debug\net5.0\ref\Report.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\bin\Debug\net5.0\Report.Core.pdb
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.AssemblyInfoInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.AssemblyInfo.cs
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.csproj.CoreCompileInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\ref\Report.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\Report.Core\obj\Debug\net5.0\Report.Core.pdb

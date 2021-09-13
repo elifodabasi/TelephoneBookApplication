@@ -1,0 +1,11 @@
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\bin\Debug\net5.0\ReportLocation.Communication.deps.json
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\bin\Debug\net5.0\ReportLocation.Communication.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\bin\Debug\net5.0\ref\ReportLocation.Communication.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\bin\Debug\net5.0\ReportLocation.Communication.pdb
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.AssemblyInfoInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.AssemblyInfo.cs
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.csproj.CoreCompileInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ref\ReportLocation.Communication.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\ReportLocation.Communication\obj\Debug\net5.0\ReportLocation.Communication.pdb

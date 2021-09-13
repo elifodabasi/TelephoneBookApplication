@@ -1,0 +1,11 @@
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\bin\Debug\net5.0\TelephoneBook.Core.deps.json
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\bin\Debug\net5.0\TelephoneBook.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\bin\Debug\net5.0\ref\TelephoneBook.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\bin\Debug\net5.0\TelephoneBook.Core.pdb
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.AssemblyInfoInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.AssemblyInfo.cs
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.csproj.CoreCompileInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\ref\TelephoneBook.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Core\obj\Debug\net5.0\TelephoneBook.Core.pdb

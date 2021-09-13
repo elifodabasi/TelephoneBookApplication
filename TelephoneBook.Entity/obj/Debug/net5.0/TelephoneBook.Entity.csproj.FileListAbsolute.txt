@@ -1,0 +1,15 @@
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\TelephoneBook.Entity.deps.json
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\TelephoneBook.Entity.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\ref\TelephoneBook.Entity.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\TelephoneBook.Entity.pdb
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\TelephoneBook.Core.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\bin\Debug\net5.0\TelephoneBook.Core.pdb
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.csprojAssemblyReference.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.AssemblyInfoInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.AssemblyInfo.cs
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.csproj.CoreCompileInputs.cache
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.csproj.CopyComplete
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\ref\TelephoneBook.Entity.dll
+C:\Users\eodabasioglu\source\repos\TelephoneBookApplication\TelephoneBook.Entity\obj\Debug\net5.0\TelephoneBook.Entity.pdb

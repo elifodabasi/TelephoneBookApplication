@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ReportLocation.Communication/1.0.0": {
+        "runtime": {
+          "ReportLocation.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReportLocation.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

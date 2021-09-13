@@ -1,0 +1,509 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Test\\TelephoneBook.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\ReportLocation.Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\ReportLocation.Communication.csproj",
+        "projectName": "ReportLocation.Communication",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\ReportLocation.Communication.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj",
+        "projectName": "TelephoneBook.Business",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\TelephoneBook.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\TelephoneBook.DataAccess.csproj"
+              },
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\TelephoneBook.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\TelephoneBook.Core.csproj",
+        "projectName": "TelephoneBook.Core",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\TelephoneBook.Core.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\TelephoneBook.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\TelephoneBook.DataAccess.csproj",
+        "projectName": "TelephoneBook.DataAccess",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\TelephoneBook.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj",
+        "projectName": "TelephoneBook.Entity",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\TelephoneBook.Core.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Core\\TelephoneBook.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Test\\TelephoneBook.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Test\\TelephoneBook.Test.csproj",
+        "projectName": "TelephoneBook.Test",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Test\\TelephoneBook.Test.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj"
+              },
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\TelephoneBookAPI.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\TelephoneBookAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\TelephoneBookAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\TelephoneBookAPI.csproj",
+        "projectName": "TelephoneBookAPI",
+        "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\TelephoneBookAPI.csproj",
+        "packagesPath": "C:\\Users\\eodabasioglu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBookAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eodabasioglu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\ReportLocation.Communication.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\ReportLocation.Communication\\ReportLocation.Communication.csproj"
+              },
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Business\\TelephoneBook.Business.csproj"
+              },
+              "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj": {
+                "projectPath": "C:\\Users\\eodabasioglu\\source\\repos\\TelephoneBookApplication\\TelephoneBook.Entity\\TelephoneBook.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
